@@ -6,7 +6,7 @@ Install
 
 First download the umicount package::
 
-    git clone https://github.com/mmendez12/transcript-counting.git
+    git clone https://github.com/mmendez12/umicount.git
 
 Then go to the umicount directory and run `python setup.py install`::
 

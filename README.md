@@ -11,4 +11,4 @@ between two PCRs (see example below).
 Note that umicount is designed to work on large sequencing data and only requires a small amount of memory. So far it was
 tested on MiSeq and HiSeq data without problems.
 
-For more information about umicount, you can look at the documentation in the doc/source folder or at the online doc on readthedocs (soon).
+For more information about umicount, you can look at the doc [here](http://umicount.readthedocs.org/en/latest/).

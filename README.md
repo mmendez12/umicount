@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 umicount is a collection of Python scripts which allows to remove and count PCR duplicates from paired-end libraries
 prepared with unique molecular identifiers (UMIs).
